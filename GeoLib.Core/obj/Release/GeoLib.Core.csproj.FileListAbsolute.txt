@@ -1,0 +1,11 @@
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Core\bin\Release\GeoLib.Core.dll.config
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Core\bin\Release\GeoLib.Core.dll
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Core\bin\Release\GeoLib.Core.pdb
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Core\bin\Release\EntityFramework.dll
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Core\bin\Release\EntityFramework.SqlServer.dll
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Core\bin\Release\EntityFramework.xml
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Core\bin\Release\EntityFramework.SqlServer.xml
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Core\obj\Release\GeoLib.Core.csproj.CoreCompileInputs.cache
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Core\obj\Release\GeoLib.Core.dll
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Core\obj\Release\GeoLib.Core.pdb
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Core\obj\Release\GeoLib.Core.csprojResolveAssemblyReference.cache

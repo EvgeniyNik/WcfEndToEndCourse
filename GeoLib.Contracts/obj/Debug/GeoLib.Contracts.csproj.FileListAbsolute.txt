@@ -1,0 +1,5 @@
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Contracts\bin\Debug\GeoLib.Contracts.dll
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Contracts\bin\Debug\GeoLib.Contracts.pdb
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.csproj.CoreCompileInputs.cache
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.dll
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.pdb

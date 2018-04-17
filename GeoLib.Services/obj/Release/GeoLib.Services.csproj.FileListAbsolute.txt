@@ -1,0 +1,16 @@
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Services\bin\Release\GeoLib.Services.dll
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Services\bin\Release\GeoLib.Services.pdb
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Services\bin\Release\GeoLib.Contracts.dll
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Services\bin\Release\GeoLib.Core.dll
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Services\bin\Release\GeoLib.Data.dll
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Services\bin\Release\EntityFramework.dll
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Services\bin\Release\GeoLib.Contracts.pdb
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Services\bin\Release\GeoLib.Core.pdb
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Services\bin\Release\GeoLib.Core.dll.config
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Services\bin\Release\GeoLib.Data.pdb
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Services\bin\Release\GeoLib.Data.dll.config
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Services\bin\Release\EntityFramework.xml
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Services\obj\Release\GeoLib.Services.csprojResolveAssemblyReference.cache
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Services\obj\Release\GeoLib.Services.csproj.CoreCompileInputs.cache
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Services\obj\Release\GeoLib.Services.dll
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Services\obj\Release\GeoLib.Services.pdb

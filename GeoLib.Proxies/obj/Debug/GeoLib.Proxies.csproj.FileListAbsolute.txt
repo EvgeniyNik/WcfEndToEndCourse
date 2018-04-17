@@ -1,0 +1,8 @@
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Proxies\bin\Debug\GeoLib.Proxies.dll
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Proxies\bin\Debug\GeoLib.Proxies.pdb
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Proxies\bin\Debug\GeoLib.Contracts.dll
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Proxies\bin\Debug\GeoLib.Contracts.pdb
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Proxies\obj\Debug\GeoLib.Proxies.csprojResolveAssemblyReference.cache
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Proxies\obj\Debug\GeoLib.Proxies.csproj.CoreCompileInputs.cache
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Proxies\obj\Debug\GeoLib.Proxies.dll
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Proxies\obj\Debug\GeoLib.Proxies.pdb

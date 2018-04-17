@@ -1,0 +1,6 @@
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Contracts\bin\Release\GeoLib.Contracts.dll
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Contracts\bin\Release\GeoLib.Contracts.pdb
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Contracts\obj\Release\GeoLib.Contracts.csproj.CoreCompileInputs.cache
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Contracts\obj\Release\GeoLib.Contracts.dll
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Contracts\obj\Release\GeoLib.Contracts.pdb
+D:\Programming learning\WcfEndToEndCourse\GeoLib.Contracts\obj\Release\GeoLib.Contracts.csprojResolveAssemblyReference.cache
