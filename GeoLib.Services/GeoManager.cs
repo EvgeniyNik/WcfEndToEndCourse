@@ -3,12 +3,14 @@ using GeoLib.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.ServiceModel;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
 namespace GeoLib.Services
 {
+    [ServiceBehavior(IncludeExceptionDetailInFaults = true)]
     public class GeoManager : IGeoService
     {
         private IZipCodeRepository _ZipCodeRepository = null;
@@ -48,7 +50,8 @@ namespace GeoLib.Services
 
         public ZipCodeData GetZipInfo(string zip)
         {
-            Thread.Sleep(10000);
+            //Thread.Sleep(10000);
+            throw new DivideByZeroException("you can't do that");
 
             ZipCodeData zipCodeData = null;
 
