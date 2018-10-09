@@ -40,11 +40,25 @@ namespace GeoLib.Client
 
         private void btnGetInfo_Click(object sender, RoutedEventArgs e)
         {
+            //if (!string.IsNullOrEmpty(txtZipCode.Text))
+            //{
+            //    GeoClient proxy = new GeoClient("tcpEP");
+
+            //    ZipCodeData data = proxy.GetZipInfo(txtZipCode.Text);
+            //    if (data != null)
+            //    {
+            //        lblCity.Content = data.City;
+            //        lblState.Content = data.State;
+            //    }
+
+            //    proxy.Close();
+            //}
+
             if (!string.IsNullOrEmpty(txtZipCode.Text))
             {
-                GeoClient proxy = new GeoClient("tcpEP");
+                ServiceReference1.GeoServiceClient proxy = new ServiceReference1.GeoServiceClient();
 
-                ZipCodeData data = proxy.GetZipInfo(txtZipCode.Text);
+                var data = proxy.GetZipInfo(txtZipCode.Text);
                 if (data != null)
                 {
                     lblCity.Content = data.City;

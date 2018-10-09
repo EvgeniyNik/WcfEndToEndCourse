@@ -51,7 +51,7 @@ namespace GeoLib.Services
         public ZipCodeData GetZipInfo(string zip)
         {
             //Thread.Sleep(10000);
-            throw new DivideByZeroException("you can't do that");
+            //throw new DivideByZeroException("you can't do that");
 
             ZipCodeData zipCodeData = null;
 
